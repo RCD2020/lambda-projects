@@ -1,5 +1,6 @@
 # Apple Stuff
 .DS_Store
+*.pages
 
 # Cringe Videos of Myself
 *.mp4
