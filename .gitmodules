@@ -1,3 +1,9 @@
 [submodule "02 Unit 2/project/lambda"]
 	path = 02 Unit 2/project/lambda
 	url = https://github.com/RCD2020/lambda.git
+[submodule "03 Unit 3/tweettest"]
+	path = 03 Unit 3/tweettest
+	url = https://github.com/RCD2020/tweettest.git
+[submodule "03 Unit 3/lambda"]
+	path = 03 Unit 3/lambda
+	url = https://github.com/RCD2020/lambda.git
