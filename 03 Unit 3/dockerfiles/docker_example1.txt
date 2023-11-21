@@ -1,0 +1,21 @@
+FROM ubuntu
+
+ENV PYTHONUNBUFFERED=1
+
+RUN apt update && \
+    apt upgrade -y && \
+    apt install python3 python3-pip curl -y && \
+    # pip install numpy pandas scikit-learn && \
+    apt-get install -y git
+
+# the copy command takes the first argument as the path
+# and the second argument as where you want to put the path
+COPY ./help/test2.py .
+
+# With the entrypoint, it will run it as a command, and then quit
+# You have to use "", not ''
+ENTRYPOINT ["python3", "test2.py"]
+
+# I can't believe I finally did it, holy crap
+
+# CMD ["python3", "test2.py"]

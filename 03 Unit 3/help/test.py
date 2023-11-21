@@ -1,0 +1,2 @@
+if __name__ == '__main__':
+    print('for the love of everything that is holy i sure do hope that this works oh boy mr krabs that would be an epic fortnite gamer win turkey turkey dinner i am the turkey and you are the chicken you fool actually dont mess with me ever again or else you wont be the only one who is a chicken, but actually your whole family will also be said chicken, and i work at a reastuarant so it will be relatively easy to fry you up and serve you with mashed potatoes, which is very delicious, giving me even more reason to do so.')

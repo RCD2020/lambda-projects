@@ -1,0 +1,6 @@
+RCD2021
+badbin-hobryv-soqPa5
+client = pymongo.MongoClient("mongodb+srv://RCD2021:<password>@cluster0.z3tac.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+db = client.test
+
+somethingSilly
