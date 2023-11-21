@@ -9,4 +9,4 @@
 	url = https://github.com/RCD2020/lambda.git
 [submodule "04 Unit 4/build_weekl/build_week_spotify"]
 	path = 04 Unit 4/build_weekl/build_week_spotify
-	url = https://github.com/Lambda-ds-31/build_week_spotify.git
+	url = https://github.com/ft-spotify-4/spotty.git
