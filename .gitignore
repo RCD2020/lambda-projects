@@ -5,6 +5,13 @@
 # Cringe Videos of Myself
 *.mp4
 
+# Environment Variables
+.env
+
+# python
+__pycache__
+.pytest_cache
+
 # Unit 1
 01\ Unit\ 1/Project/sources
 
@@ -14,3 +21,8 @@
 02\ Unit\ 2/files/test_features.csv
 02\ Unit\ 2/git\ token
 02\ Unit\ 2/files/train_labels.csv
+
+# Unit 3
+03\ Unit\ 3/1202\ Interview.mov
+03\ Unit\ 3/1001/twittertoken.txt
+03\ Unit\ 3/twitterapi.keys
