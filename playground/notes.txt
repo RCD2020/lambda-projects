@@ -1,0 +1,24 @@
+Topics:
+pd.read_csv()
+    names
+df.head()
+df.shape()
+df.info()
+df.dtypes
+df.describe()
+    include
+    exclude
+df[]
+df.sort_values()
+    by
+    ascending
+    by=[,]
+    normalize
+df.isnull()
+df.any()
+df.sum()
+df.drop()
+    inplace
+    axis
+    columns
+
